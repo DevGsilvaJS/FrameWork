@@ -1,0 +1,337 @@
+C:\GabrielsSample\WEBApp\WEBApp\bin\WEBApp.dll.config
+C:\GabrielsSample\WEBApp\WEBApp\bin\WEBApp.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\WEBApp.pdb
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\csc.exe
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\csc.exe.config
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\csc.rsp
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\csi.exe
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\csi.exe.config
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\csi.rsp
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.AppContext.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Collections.Immutable.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Console.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.IO.Compression.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.IO.FileSystem.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.IO.Pipes.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Security.AccessControl.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Security.Claims.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.ValueTuple.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Xml.XPath.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\vbc.exe
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\vbc.exe.config
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\vbc.rsp
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\VBCSCompiler.exe
+C:\GabrielsSample\WEBApp\WEBApp\bin\roslyn\VBCSCompiler.exe.config
+C:\GabrielsSample\WEBApp\WEBApp\bin\Antlr3.Runtime.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\Microsoft.Web.Infrastructure.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\Newtonsoft.Json.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Web.Helpers.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Web.Mvc.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Web.Optimization.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Web.Razor.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Web.WebPages.Deployment.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Web.WebPages.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Web.WebPages.Razor.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\WebGrease.dll
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Web.Helpers.xml
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Web.Mvc.xml
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Web.Optimization.xml
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Web.Razor.xml
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Web.WebPages.xml
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Web.WebPages.Deployment.xml
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Web.WebPages.Razor.xml
+C:\GabrielsSample\WEBApp\WEBApp\bin\Newtonsoft.Json.xml
+C:\GabrielsSample\WEBApp\WEBApp\bin\Antlr3.Runtime.pdb
+C:\GabrielsSample\WEBApp\WEBApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\GabrielsSample\WEBApp\WEBApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\GabrielsSample\WEBApp\WEBApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GabrielsSample\WEBApp\WEBApp\obj\Debug\WEBApp.csproj.CoreCompileInputs.cache
+C:\GabrielsSample\WEBApp\WEBApp\obj\Debug\WEBApp.csproj.CopyComplete
+C:\GabrielsSample\WEBApp\WEBApp\obj\Debug\WEBApp.dll
+C:\GabrielsSample\WEBApp\WEBApp\obj\Debug\WEBApp.pdb
+D:\Projetos\WEBApp\WEBApp\bin\WEBApp.dll.config
+D:\Projetos\WEBApp\WEBApp\bin\WEBApp.dll
+D:\Projetos\WEBApp\WEBApp\bin\WEBApp.pdb
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\csc.exe
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\csc.exe.config
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\csc.rsp
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\csi.exe
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\csi.exe.config
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\csi.rsp
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.AppContext.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Console.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.IO.Compression.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.IO.Pipes.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Security.Claims.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.ValueTuple.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Xml.XPath.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\vbc.exe
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\vbc.exe.config
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\vbc.rsp
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\VBCSCompiler.exe
+D:\Projetos\WEBApp\WEBApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Projetos\WEBApp\WEBApp\bin\Antlr3.Runtime.dll
+D:\Projetos\WEBApp\WEBApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Projetos\WEBApp\WEBApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projetos\WEBApp\WEBApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos\WEBApp\WEBApp\bin\Newtonsoft.Json.dll
+D:\Projetos\WEBApp\WEBApp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Projetos\WEBApp\WEBApp\bin\System.Web.Helpers.dll
+D:\Projetos\WEBApp\WEBApp\bin\System.Web.Mvc.dll
+D:\Projetos\WEBApp\WEBApp\bin\System.Web.Optimization.dll
+D:\Projetos\WEBApp\WEBApp\bin\System.Web.Razor.dll
+D:\Projetos\WEBApp\WEBApp\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos\WEBApp\WEBApp\bin\System.Web.WebPages.dll
+D:\Projetos\WEBApp\WEBApp\bin\System.Web.WebPages.Razor.dll
+D:\Projetos\WEBApp\WEBApp\bin\UI.WEB.Model.dll
+D:\Projetos\WEBApp\WEBApp\bin\UI.WEB.WorkFlow.dll
+D:\Projetos\WEBApp\WEBApp\bin\WebGrease.dll
+D:\Projetos\WEBApp\WEBApp\bin\UI.WEB.Model.pdb
+D:\Projetos\WEBApp\WEBApp\bin\UI.WEB.WorkFlow.pdb
+D:\Projetos\WEBApp\WEBApp\bin\System.Web.Helpers.xml
+D:\Projetos\WEBApp\WEBApp\bin\System.Web.Mvc.xml
+D:\Projetos\WEBApp\WEBApp\bin\System.Web.Optimization.xml
+D:\Projetos\WEBApp\WEBApp\bin\System.Web.Razor.xml
+D:\Projetos\WEBApp\WEBApp\bin\System.Web.WebPages.xml
+D:\Projetos\WEBApp\WEBApp\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos\WEBApp\WEBApp\bin\System.Web.WebPages.Razor.xml
+D:\Projetos\WEBApp\WEBApp\bin\Newtonsoft.Json.xml
+D:\Projetos\WEBApp\WEBApp\bin\Antlr3.Runtime.pdb
+D:\Projetos\WEBApp\WEBApp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Projetos\WEBApp\WEBApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Projetos\WEBApp\WEBApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projetos\WEBApp\WEBApp\obj\Debug\WEBApp.csproj.AssemblyReference.cache
+D:\Projetos\WEBApp\WEBApp\obj\Debug\WEBApp.csproj.CoreCompileInputs.cache
+D:\Projetos\WEBApp\WEBApp\obj\Debug\WEBApp.csproj.CopyComplete
+D:\Projetos\WEBApp\WEBApp\obj\Debug\WEBApp.dll
+D:\Projetos\WEBApp\WEBApp\obj\Debug\WEBApp.pdb
+D:\Projetos\WEBApp\WEBApp\bin\UI.WEB.Query.dll
+D:\Projetos\WEBApp\WEBApp\bin\UI.WEB.Query.pdb
+D:\Projetos\WEBApp - Copia\WEBApp\bin\WEBApp.dll.config
+D:\Projetos\WEBApp - Copia\WEBApp\bin\WEBApp.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\WEBApp.pdb
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\csc.exe
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\csc.exe.config
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\csc.rsp
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\csi.exe
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\csi.exe.config
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\csi.rsp
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.AppContext.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Console.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.IO.Compression.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.IO.Pipes.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Security.Claims.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.ValueTuple.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Xml.XPath.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\vbc.exe
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\vbc.exe.config
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\vbc.rsp
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\VBCSCompiler.exe
+D:\Projetos\WEBApp - Copia\WEBApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Projetos\WEBApp - Copia\WEBApp\bin\Antlr3.Runtime.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\Newtonsoft.Json.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Web.Helpers.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Web.Mvc.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Web.Optimization.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Web.Razor.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Web.WebPages.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Web.WebPages.Razor.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\UI.WEB.Model.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\UI.WEB.WorkFlow.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\WebGrease.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\UI.WEB.Query.dll
+D:\Projetos\WEBApp - Copia\WEBApp\bin\UI.WEB.Model.pdb
+D:\Projetos\WEBApp - Copia\WEBApp\bin\UI.WEB.WorkFlow.pdb
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Web.Helpers.xml
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Web.Mvc.xml
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Web.Optimization.xml
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Web.Razor.xml
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Web.WebPages.xml
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Web.WebPages.Razor.xml
+D:\Projetos\WEBApp - Copia\WEBApp\bin\Newtonsoft.Json.xml
+D:\Projetos\WEBApp - Copia\WEBApp\bin\Antlr3.Runtime.pdb
+D:\Projetos\WEBApp - Copia\WEBApp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Projetos\WEBApp - Copia\WEBApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Projetos\WEBApp - Copia\WEBApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projetos\WEBApp - Copia\WEBApp\bin\UI.WEB.Query.pdb
+D:\Projetos\WEBApp - Copia\WEBApp\obj\Debug\WEBApp.csproj.AssemblyReference.cache
+D:\Projetos\WEBApp - Copia\WEBApp\obj\Debug\WEBApp.csproj.CoreCompileInputs.cache
+D:\Projetos\WEBApp - Copia\WEBApp\obj\Debug\WEBApp.csproj.CopyComplete
+D:\Projetos\WEBApp - Copia\WEBApp\obj\Debug\WEBApp.dll
+D:\Projetos\WEBApp - Copia\WEBApp\obj\Debug\WEBApp.pdb
+D:\Projetos\WEBAppFrameWorks\WEBApp\obj\Debug\WEBApp.csproj.AssemblyReference.cache
+D:\Projetos\WEBAppFrameWorks\WEBApp\obj\Debug\WEBApp.csproj.CoreCompileInputs.cache
+D:\Projetos\WEBAppFrameWorks\WEBApp\obj\Debug\WEBApp.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\obj\Debug\WEBApp.pdb
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\WEBApp.dll.config
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\WEBApp.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\WEBApp.pdb
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\csc.exe
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\csc.exe.config
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\csc.rsp
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\csi.exe
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\csi.exe.config
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\csi.rsp
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.AppContext.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Console.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.IO.Compression.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.IO.Pipes.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Security.Claims.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.ValueTuple.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Xml.XPath.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\vbc.exe
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\vbc.exe.config
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\vbc.rsp
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\VBCSCompiler.exe
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\Antlr3.Runtime.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\Newtonsoft.Json.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Web.Helpers.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Web.Mvc.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Web.Optimization.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Web.Razor.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Web.WebPages.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Web.WebPages.Razor.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\UI.WEB.Model.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\UI.WEB.WorkFlow.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\WebGrease.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\UI.WEB.Model.pdb
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\UI.WEB.WorkFlow.pdb
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Web.Helpers.xml
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Web.Mvc.xml
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Web.Optimization.xml
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Web.Razor.xml
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Web.WebPages.xml
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Web.WebPages.Razor.xml
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\Newtonsoft.Json.xml
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\Antlr3.Runtime.pdb
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projetos\WEBAppFrameWorks\WEBApp\obj\Debug\WEBApp.csproj.CopyComplete
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\UI.WEB.Query.dll
+D:\Projetos\WEBAppFrameWorks\WEBApp\bin\UI.WEB.Query.pdb

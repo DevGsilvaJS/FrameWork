@@ -1,0 +1,6 @@
+D:\Projetos\WEBApp\ClassLibrary1\obj\Debug\UI.WEB.Query.csproj.AssemblyReference.cache
+D:\Projetos\WEBApp\ClassLibrary1\obj\Debug\UI.WEB.Query.csproj.CoreCompileInputs.cache
+D:\Projetos\WEBApp\ClassLibrary1\bin\Debug\UI.WEB.Query.dll
+D:\Projetos\WEBApp\ClassLibrary1\bin\Debug\UI.WEB.Query.pdb
+D:\Projetos\WEBApp\ClassLibrary1\obj\Debug\UI.WEB.Query.dll
+D:\Projetos\WEBApp\ClassLibrary1\obj\Debug\UI.WEB.Query.pdb

@@ -1,0 +1,259 @@
+﻿<!doctype html>
+
+
+<style>
+
+    .container {
+        position: relative;
+        height: 2000px;
+    }
+
+    #btnSalvarFormulario {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        display: none;
+    }
+
+
+    .nav-tabs {
+        padding-left: 0px;
+    }
+</style>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8" />
+    <title>Dashboard | Lexa - Admin & Dashboard Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
+    <meta content="Themesbrand" name="author" />
+    <!-- App favicon -->
+    <link rel="shortcut icon" href="~/Template/assets/images/favicon.ico">
+
+    <link href="~/Template/assets/css/bootstrap-dark.css" rel="stylesheet" />
+    <link href="~/Template/assets/css/icons-rtl.min.css" rel="stylesheet" />
+    <link href="~/Template/assets/css/app-dark.min.css" rel="stylesheet" />
+</head>
+
+
+
+<body data-sidebar="dark">
+
+    <!-- <body data-layout="horizontal" data-topbar="colored"> -->
+    <!-- Begin page -->
+    <div id="layout-wrapper">
+
+        <header id="page-topbar">
+            <div class="navbar-header">
+                <div class="d-flex">
+                    <!-- LOGO -->
+                    <div class="navbar-brand-box">
+                        <a href="index.html" class="logo logo-dark">
+                            <span class="logo-sm">
+                                <img src="~/Template/assets/images/logo-sm.png" />
+                            </span>
+                            <span class="logo-lg">
+                                <img src="~/Template/assets/images/logo-dark.png" />
+                            </span>
+                        </a>
+
+                        <a href="index.html" class="logo logo-light">
+                            <span class="logo-sm">
+                                <img src="~/Template/assets/images/logo-sm.png" />
+                            </span>
+                            <span class="logo-lg">
+                                <img src="/Template/assets/images/logo-light.png" alt="" height="18">
+                            </span>
+                        </a>
+                    </div>
+                    <div>
+                        <label id="lblUsuario" style="margin-top: 50px; margin-bottom:50px; margin-left: 5px; color: black">Usuário: </label>
+                    </div>
+
+                </div>
+
+
+            </div>
+        </header>
+
+
+        <!-- ========== Left Sidebar Start ========== -->
+        <div class="vertical-menu">
+
+            <div data-simplebar class="h-100">
+
+                <!--- Sidemenu -->
+                <div id="sidebar-menu">
+                    <!-- Left Menu Start -->
+                    <ul class="metismenu list-unstyled" id="side-menu">
+                        <li class="menu-title">Main</li>
+<<<<<<< HEAD
+=======
+
+
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow waves-effect">
+                                <i class="mdi mdi-cash-usd"></i>
+                                <span>Vendas</span>
+                            </a>
+                            <ul class="sub-menu" aria-expanded="false">
+                                <li><a style="color:red" href="/Cliente">Cliente</a></li>
+                                <li><a style="color:red" href="/Vendas">Vendas</a></li>
+                                <li><a style="color:red" href="/LancamentoCaixa">Lançamentos no caixa</a></li>
+                                <li>
+                                    <a href="javascript: void(0);" class="has-arrow waves-effect">
+                                        <span>Tab.  auxiliares</span>
+                                    </a>
+                                    <ul class="sub-menu">
+                                        <li><a  href="/Convenio">Convenio</a></li>
+                                        <li><a  href="/Indicacao">Indicação</a></li>
+                                        <li><a  href="/TipoVenda">Tipo de Venda</a></li>
+                                        <li><a href="/Vendedor">Vendedor</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+
+
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow waves-effect">
+                                <i class="mdi mdi-email-outline"></i>
+                                <span>Estoque</span>
+                            </a>
+                            <ul class="sub-menu" aria-expanded="false">
+                                <li><a href="/Produto">Produtos</a></li>
+                                <li><a style="color:red" href="/EntradaEstoque">Entrada de Estoque</a></li>
+                                <li><a style="color:red" href="email-compose.html">Saída de Estoque</a></li>
+                                <li><a href="/Fornecedor">Fornecedores</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow waves-effect">
+                                <i class="mdi mdi-email-outline"></i>
+                                <span>Financeiro</span>
+                            </a>
+                            <ul class="sub-menu" aria-expanded="false">
+                                <li><a style="color:red" href="email-inbox.html">Contas a Pagar</a></li>
+                                <li><a style="color:red" href="email-read.html">Contas a Receber</a></li>
+                            </ul>
+                        </li>
+
+
+>>>>>>> 825958046166c5c65fc273ff1447db11abf082b6
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow waves-effect">
+                                <i class="mdi mdi-email-outline"></i>
+                                <span>Utilitários</span>
+                            </a>
+                            <ul class="sub-menu" aria-expanded="false">
+                                <li><a href="/Usuario">Usuários</a></li>
+                                <li><a href="/Laboratorio">Laboratorio</a></li>
+                                <li><a href="/ReservaLaboratorio">Reservar Laboratório</a></li>
+                            </ul>
+                        </li>
+
+                    </ul>
+                </div>
+                <!-- Sidebar -->
+            </div>
+        </div>
+        <!-- Left Sidebar End -->
+        <!-- ============================================================== -->
+        <!-- Start right Content here -->
+        <!-- ============================================================== -->
+        <div class="main-content">
+            <div class="page-content">
+                <div class="container-fluid">
+                    @RenderBody()
+
+                </div>
+            </div>
+        </div>
+
+
+        <footer class="footer">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        Sistema Administrativo de Vendas <span class="d-none d-sm-inline-block"> </span>
+                    </div>
+                </div>
+            </div>
+
+            <button class="btn btn-primary" id="btnSalvarFormulario">Salvar</button>
+        </footer>
+
+        <div class="right-bar">
+            <div data-simplebar class="h-100">
+
+                <div class="rightbar-title d-flex align-items-center px-3 py-4">
+
+                    <h5 class="m-0 me-2">Settings</h5>
+
+                    <a href="javascript:void(0);" class="right-bar-toggle ms-auto">
+                        <i class="mdi mdi-close noti-icon"></i>
+                    </a>
+                </div>
+
+                <hr class="mt-0" />
+                <h6 class="text-center mb-0">Choose Layouts</h6>
+
+                <div class="p-4">
+                    <div class="mb-2">
+                        <img src="~/Template/assets/images/layouts/layout-1.jpg" class="img-thumbnail" alt="">
+                    </div>
+                    <div class="form-check form-switch mb-3">
+                        <input type="checkbox" class="form-check-input theme-choice" id="light-mode-switch" checked />
+                        <label class="form-check-label" for="light-mode-switch">Light Mode</label>
+                    </div>
+
+                    <div class="mb-2">
+                        <img src="~/Template/assets/images/layouts/layout-2.jpg" class="img-thumbnail" alt="">
+                    </div>
+                    <div class="form-check form-switch mb-3">
+                        <input type="checkbox" class="form-check-input theme-choice" id="dark-mode-switch" data-bsStyle="~/Template/assets/css/bootstrap-dark.min.css" data-appStyle="~/Template/assets/css/app-dark.min.css" />
+                        <label class="form-check-label" for="dark-mode-switch">Dark Mode</label>
+                    </div>
+
+                    <div class="mb-2">
+                        <img src="~/Template/assets/images/layouts/layout-3.jpg" class="img-thumbnail" alt="">
+                    </div>
+                    <div class="form-check form-switch mb-5">
+                        <input type="checkbox" class="form-check-input theme-choice" id="rtl-mode-switch" data-appStyle="~/Template/assets/css/app-rtl.min.css" />
+                        <label class="form-check-label" for="rtl-mode-switch">RTL Mode</label>
+                    </div>
+
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="rightbar-overlay"></div>
+
+
+
+
+    <script src="~/Template/assets/libs/jquery/jquery.min.js"></script>
+    <script src="~/Template/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Template/assets/libs/metismenu/metisMenu.min.js"></script>
+    <script src="~/Template/assets/libs/simplebar/simplebar.min.js"></script>
+    <script src="~/Template/assets/libs/node-waves/waves.min.js"></script>
+    <script src="~/Template/assets/libs/jquery-sparkline/jquery.sparkline.min.js"></script>
+    <script src="~/Template/assets/libs/raphael/raphael.min.js"></script>
+    <script src="~/Template/assets/js/pages/dashboard.init.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.js"></script>
+    <script src="~/Template/assets/js/app.js"></script>
+    <script src="~/Template/assets/libs/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="~/JsPaginas/jsLayout/jsLayout.js"></script>
+
+
+
+</body>
+
+</html>

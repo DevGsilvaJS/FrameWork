@@ -1,0 +1,131 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+
+    .classLabel {
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+</style>
+<!-- Custom Tabs -->
+<div class="nav-tabs-custom">
+    <div class="tabs">
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link active" href="#tab1" id="aLista" data-toggle="tab">Listagem</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#tab2" id="aCadastro" data-toggle="tab">Registro</a>
+            </li>
+        </ul>
+    </div>
+    <div class="tab-content">
+        <div class="tab-pane active" id="tab1">
+            <table id="tbUsuario" class="table table-bordered table-hover dataTable" role="grid" aria-describedby="example2_info">
+                <thead>
+                    <tr>
+                        <td>Acao</td>
+                        <td>Nome</td>
+                        <td>Email</td>
+                        <td>Status</td>
+                    </tr>
+                </thead>
+
+                <tbody>
+                </tbody>
+            </table>
+
+        </div>
+        <!-- /.tab-pane -->
+        <div class="tab-pane" id="tab2">
+
+
+            <div class="card">
+
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!-- general form elements -->
+                            <div class="box box-primary">
+                                <form role="form">
+                                    <div class="box-body">
+                                        <div class="row">
+
+                                            <div class="col-md-6">
+                                                <label class="classLabel">Nome Completo</label>
+                                                <input type="text" class="form-control" id="txtNomeUsuario" style="text-transform: uppercase">
+                                            </div>
+
+
+                                            <div class="col-md-2">
+                                                <div class="form-group">
+                                                    <label class="classLabel">TIPO DE USUARIO</label>
+                                                    <select class="form-control" id="ddlTipoUsuario">
+                                                        <option value="0">ALUNO</option>
+                                                        <option value="1">ADMIN</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2">
+                                                <label id="lblCpfUsuario" style="display:block" class="classLabel">CPF</label>
+                                                <label id="lblCNPJUsuario" style="display:none" class="classLabel">CNPJ</label>
+                                                <input type="text" class="form-control" id="txtDocFederalUsuario" style="text-transform: uppercase; display:block">
+                                                <input type="text" class="form-control" id="txtDocFederalAdmin" style="text-transform: uppercase; display:none">
+                                            </div>
+
+
+
+                                            <div class="col-md-2">
+                                                <div class="form-group">
+                                                    <label class="classLabel">STATUS</label>
+                                                    <select class="form-control" id="ddlStatus">
+                                                        <option value="1">ATIVO</option>
+                                                        <option value="0">INATIVO</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-6">
+                                                <label class="classLabel">E-mail</label>
+                                                <input type="text" class="form-control" id="txtEmailUsuario" style="text-transform: uppercase">
+                                            </div>
+
+                                            <div class="col-md-2">
+                                                <div class="form-group">
+                                                    <label class="classLabel">Senha</label>
+                                                    <input type="password" class="form-control" id="txtSenhaUsuario" />
+                                                </div>
+                                            </div>
+
+
+                                            <div class="col-md-2">
+                                                <label class="classLabel">Telefone</label>
+                                                <input type="text" class="form-control" id="txtTelefoneUsuario" placeholder="Telefone">
+                                            </div>
+
+
+                                            <div class="col-md-2">
+                                                <label class="classLabel">Celular</label>
+                                                <input type="text" class="form-control" id="txtCelularUsuario" placeholder="Celular">
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/Scripts/jsPaginas/jsUsuario.js"></script>
