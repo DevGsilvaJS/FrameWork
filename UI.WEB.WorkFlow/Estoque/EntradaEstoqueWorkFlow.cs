@@ -17,6 +17,7 @@ namespace UI.WEB.WorkFlow.Estoque
     {
 
         DBComando db = new DBComando();
+        string a = "";
 
         public EntityNotaFiscal RetornaObjInclusao()
         {
